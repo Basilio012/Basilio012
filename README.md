@@ -8,4 +8,4 @@
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Basilio012&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Basilio012&show_icons=true&theme=dark)
