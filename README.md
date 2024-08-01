@@ -6,4 +6,4 @@
 - 😄 Pronouns: ELE/DELE
 - ⚡ A procura de um estágio
 -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Basílio012&show_icons=true&theme=radical)
